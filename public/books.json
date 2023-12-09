@@ -1,0 +1,18 @@
+[
+    {
+        "category_img": "https://i.ibb.co/X478Brj/cover.jpg",
+        "category_name": "Fiction"
+    },
+    {
+        "category_img": "https://i.ibb.co/TgLf7G6/cover3.jpg",
+        "category_name": "Science Fiction"
+    },
+    {
+        "category_img": "https://i.ibb.co/JpLtT40/cover.jpg",
+        "category_name": "Mystery"
+    },
+    {
+        "category_img": "https://i.ibb.co/SfpL8Lq/cover-1.webp",
+        "category_name": "Non-Fiction"
+    }
+]
